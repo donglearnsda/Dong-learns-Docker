@@ -25,6 +25,7 @@
 - Dockerfile: file chứa tập hợp các hướng dẫn để tạo ra image.
 - Volume: Dữ liệu dùng chung giữa máy chủ và container.
 - Network: Kết nối giữa các container với nhau.
+![image](https://github.com/user-attachments/assets/c6e6e505-fa5e-45ed-82ee-17da5c38b3b4)
 
 ---
 
