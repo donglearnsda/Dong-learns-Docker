@@ -64,6 +64,7 @@
 # III. CLI
 - Command-line interface là cách bạn điều khiển Docker bằng lệnh trong Terminal (CDM, PowerShell hoặc WSL)
 - Một số lệnh Docker cơ bản:
+
 | Lệnh Docker | Mô tả |
 |-------------|-------|
 | `docker --version` | Kiểm tra cài đặt Docker |
@@ -242,6 +243,7 @@ Docker Desktop là ứng dụng GUI (giao diện đồ họa) giúp bạn:
 
 ## 2. Cách sử dụng Docker Desktop hiệu quả
 - Giao diện chính bao gồm:
+
 | Thành phần           | Mô tả                                               |
 | -------------------- | --------------------------------------------------- |
 | **Containers**       | Danh sách container đang chạy hoặc đã chạy          |
